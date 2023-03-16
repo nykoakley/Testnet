@@ -1,13 +1,16 @@
-## Wormholes
+# Wormholes
 
-Running Worholes
+## Running Worholes
 https://www.wormholes.com/docs/install/run/docker/docker_3/index.html#
 
-Become Validator
+## Become Validator
 https://www.wormholes.com/docs/install/stake/index.html#
 
-Check the Node
+## S-NFT Miner
+https://market-2.gitbook.io/get-s-nft-by-staking-erb-on-wormholeschain/
+
+## Check the Node
 https://www.wormholes.com/docs/install/check/index.html
 
-Custom Configuration
+### Custom Configuration
 https://www.wormholes.com/docs/install/configuration/index.html
